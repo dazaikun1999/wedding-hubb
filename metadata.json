@@ -1,0 +1,6 @@
+{
+  "name": "EverAfter: Wedding Studio Dashboard",
+  "description": "Production-grade wedding studio management dashboard with real-time client tracking, budget ledger, vendor directory, planning checklist, packages, quotation builder, and break-even calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
